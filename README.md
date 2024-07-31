@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/taimoorjutt067" target="blank"><img src="https://img.shields.io/twitter/follow/taimoorjutt067?logo=twitter&style=for-the-badge" alt="taimoorjutt067" /></a> </p>
 
-- 🔭 I’m currently working on **Building a Pyramid Building using JavaScript**
+- 🔭 I’m currently working on **Building a Pyramid using JavaScript**
 
 - 🌱 I’m currently learning **Advanced JavaScript and Frameworks.**
 
