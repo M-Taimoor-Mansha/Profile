@@ -1,82 +1,222 @@
-![logo](https://github.com/M-Taimoor-Mansha/M-Taimoor-Mansha/blob/main/banner%202.png)
+# 👋 Hi, I'm Muhammad Taimoor Mansha
 
-<h1 align="center">Welcome To My Profile ✨</h1>
-<h3 align="center">Full-Stack Web Developer 👨🏻‍💻</h3>
+### 💻 Full-Stack Developer | MERN Stack | AI & Web3 Enthusiast
 
-<img align="right" alt="coding" width="400" src="https://github.com/M-Taimoor-Mansha/M-Taimoor-Mansha/blob/main/Coding%20Png.gif">
+I'm a passionate **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-taimoor-mansha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+I enjoy turning ideas into functional products—from polished frontend experiences to full-stack applications—and I'm continuously expanding my skills across **MERN development, AI-powered applications, and Web3 technologies**.
+
+> 🚀 *I enjoy solving problems that look impossible at first.*
+
+---
+
+## 👨🏻‍💻 About Me
+
+* 🔭 Currently building a **Crypto Betting Platform with Stablecoin Support**
+* 🌱 Expanding my skills in **AI-Powered Web Applications & Advanced JavaScript**
+* 💻 Focused on **MERN Stack Development**
+* 🌐 Interested in **Web3, Crypto, AI, and scalable web applications**
+* 💬 Ask me about **Full-Stack Development, JavaScript, MERN, Crypto Projects, and Web Apps**
+* 📫 Reach me at **[taimoorc067@gmail.com](mailto:taimoorc067@gmail.com)**
+* ⚡ Fun fact: **I enjoy turning challenging problems into working solutions.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🟢 Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### 🍃 Database
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 👨🏻‍💻 About Me  
+# 🚀 Featured Projects
 
-- 🔭 Currently building **a Crypto Betting Platform with Stablecoin Support**  
-- 🌱 Expanding skills in **AI-Powered Web Applications & Advanced JavaScript Frameworks**  
-- 💬 Ask me about **Full-Stack Development, Crypto Projects, and Scalable Web Apps**  
-- 📫 Reach me at **taimoorc067@gmail.com**  
-- ⚡ Fun fact: **I enjoy solving problems that look impossible at first.**  
+## 🎬 Netflix Clone
 
----
+A Netflix-inspired streaming platform interface built to practice responsive frontend development, modern layouts, content cards, navigation, and visual design.
 
-### 🌍 My Contribution Philosophy  
-⚡ *"Building future-ready web applications that merge innovation with functionality."*  
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/Netflix-Clone-Project)
 
 ---
 
-### 🤝 Connect With Me  
-<p align="left">
-<a href="https://codepen.io/muhammad-taimoor-mansha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/taimoorjutt067" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-taimoor-mansha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/your-id" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-<a href="https://kaggle.com/taimoormansha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/taimoorjutt0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+## 🎵 Spotify Clone
+
+A Spotify-inspired web interface focused on recreating the look and feel of a modern music streaming platform.
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/Spotify-Clone-Project)
+
+---
+
+## 🛒 Amazon Clone
+
+An Amazon-inspired e-commerce interface created to practice complex page layouts, product presentation, navigation, and responsive frontend design.
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/Amazon-Clone-Project)
+
+---
+
+## 🚗 Luxury Car Rental
+
+A premium automotive rental interface focused on luxury vehicle presentation, responsive design, clean layouts, and user-friendly navigation.
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/Luxury-Car-Rental)
+
+---
+
+# 💡 More Projects
+
+### 🔐 Password Generator
+
+A browser-based password generator designed to practice JavaScript logic, random generation, user interaction, and dynamic DOM manipulation.
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/password-generator-app)
+
+---
+
+### 🍅 Pomodoro Timer
+
+A productivity-focused Pomodoro timer that demonstrates JavaScript timing logic, state handling, user interaction, and dynamic interface updates.
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/build-a-pomodoro-timer)
+
+---
+
+### 🎉 Celestial Gala 2025
+
+A dedicated event-oriented web project created around the **Celestial Gala 2025**, focusing on visual presentation, layout, and an engaging event experience.
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/celestial-gala-2025)
+
+---
+
+### 💌 Thank You Page
+
+A simple, polished thank-you page project focused on clean presentation, typography, layout, and frontend styling.
+
+**Tech:** HTML5 • CSS3
+
+🔗 [View Repository](https://github.com/M-Taimoor-Mansha/thank-you-page)
+
+---
+
+# 🌍 What I'm Building Toward
+
+My goal is to progress from frontend projects into **production-ready full-stack applications** that solve real-world problems.
+
+### Currently Exploring
+
+* 🟢 MERN Stack
+* 🤖 AI-powered web applications
+* ⛓️ Web3 & blockchain
+* 💰 Crypto & stablecoin platforms
+* 🔐 Authentication & authorization
+* 📊 Scalable backend architecture
+* ⚡ Performance optimization
+* ☁️ Deployment & cloud technologies
+* 🧩 REST APIs and database architecture
+
+---
+
+# 🧠 Development Philosophy
+
+> **Build. Learn. Break. Improve. Repeat.**
+
+I believe the best way to become a better developer is to continuously build real projects, experiment with new technologies, learn from failures, and turn difficult problems into practical solutions.
+
+Every project is an opportunity to learn something new and move one step closer to becoming a stronger engineer.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Taimoor-Mansha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taimoor-Mansha&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+# 🔥 GitHub Streak
+
 <p align="center">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
+  <img src="https://streak-stats.demolab.com?user=M-Taimoor-Mansha&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-taimoor-mansha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=m-taimoor-mansha&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-taimoor-mansha" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Taimoor-Mansha&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 📈 Activity Graph  
+# 🤝 Let's Connect
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-taimoor-mansha&theme=tokyo-night" alt="Contribution Graph" />
+  <a href="mailto:taimoorc067@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/M-Taimoor-Mansha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💬 Let's Build Something
+
+I'm always interested in **challenging projects, interesting ideas, collaborations, and opportunities to learn and build together.**
+
+If you're working on something exciting, feel free to reach out.
+
+<p align="center">
+  <b>Keep building. Keep learning. Keep improving. 🚀</b>
 </p>
