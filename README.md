@@ -104,17 +104,16 @@ I am continuously working toward production-ready full-stack applications that s
 
 ## 📊 Analytics & Activity
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Taimoor-Mansha&show_icons=true&theme=dark&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taimoor-Mansha&layout=compact&theme=dark&hide_border=true" height="175" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Taimoor-Mansha&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="175" alt="GitHub Stats" style="margin: 5px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taimoor-Mansha&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="175" alt="Top Languages" style="margin: 5px;"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Taimoor-Mansha&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Taimoor-Mansha&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 <br/>
