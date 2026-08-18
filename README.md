@@ -104,14 +104,27 @@ I am continuously working toward production-ready full-stack applications that s
 
 ## 📊 Analytics & Activity
 
+<div align="center">
+
+<!-- GitHub Native Metric Badges -->
 <p align="center">
-  <img src="https://github-readme-stats.mhamzapg.workers.dev/api?username=M-Taimoor-Mansha&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.mhamzapg.workers.dev/api/top-langs/?username=M-Taimoor-Mansha&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/M-Taimoor-Mansha?style=for-the-badge&logo=github&color=38bdf8&labelColor=0f172a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/M-Taimoor-Mansha?style=for-the-badge&logo=github&color=38bdf8&labelColor=0f172a" alt="Stars" />
+  <img src="https://img.shields.io/github/directory-file-count/M-Taimoor-Mansha/Portfolio?style=for-the-badge&logo=github&color=38bdf8&labelColor=0f172a&label=Repositories" alt="Repos" />
 </p>
 
+<!-- Language Summary Badges -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Taimoor-Mansha&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Stack-MERN-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN" />
 </p>
+
+<!-- Native Contribution Chart -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/M-Taimoor-Mansha" width="100%" alt="Contribution Chart" />
+</p>
+
+</div>
 
 <br/>
 
