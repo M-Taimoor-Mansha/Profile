@@ -1,16 +1,11 @@
 <div align="center">
 
-<!-- Waving Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Muhammad%20Taimoor%20Mansha&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20%26%20Web3%20Enthusiast&descSize=16&descAlignY=62&descColor=94a3b8" width="100%" alt="Muhammad Taimoor Mansha Header"/>
+<!-- Reliable Header Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Muhammad+Taimoor+Mansha;Full-Stack+MERN+Developer;AI+%26+Web3+Enthusiast" alt="Header Typing SVG" />
 
-<br/>
-
-<!-- Dynamic Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;Building+Scalable+%26+Modern+Web+Apps;Exploring+AI-Powered+Apps+%26+Web3+Ecosystems;Turning+Complex+Problems+into+Working+Solutions" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<p align="center">
+  <b>Full-Stack Developer | MERN Stack | Web3 & AI Projects</b>
+</p>
 
 <!-- Social & Contact Badges -->
 <p align="center">
@@ -107,28 +102,18 @@ I am continuously working toward production-ready full-stack applications that s
 
 <br/>
 
-## 📊 Analytics & Contribution Graph
+## 📊 Analytics & Activity
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=M-Taimoor-Mansha&show_icons=true&theme=slate&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&hide_border=false" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taimoor-Mansha&layout=compact&theme=slate&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Taimoor-Mansha&show_icons=true&theme=dark&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Taimoor-Mansha&layout=compact&theme=dark&hide_border=true" height="175" alt="Top Languages" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Taimoor-Mansha&theme=slate&background=0f172a&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sidenums=94a3b8&date=94a3b8" alt="GitHub Streak" width="98%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Taimoor-Mansha&theme=slate&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f8fafc&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Taimoor-Mansha&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 </div>
 
